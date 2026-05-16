@@ -15,11 +15,12 @@
 
  **java**, **go**, **linux**
 
+
 migrando projetos antigos para essa nova conta e conectando estudos sobre **IBM Z / mainframe** juntamente com ferramentas locais, APIs e fluxo de trabalho no terminal.
 
 **estudando:** IBM Z, Go, CLIs, Linux (sistema interno), redes e sistemas distribuídos.
 
-**projetos:** `go-blockchain-lab`, `python-zoau-dataset-automation`, ferramentas locais e experimentos pequenos.
+**projetos:** `go-blockchain-lab`, `python-zoau-dataset-automation`, ferramentas locais.
 
 <details>
 <summary>terminal view</summary>
