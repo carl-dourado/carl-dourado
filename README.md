@@ -13,7 +13,7 @@
 
 ## carl-dourado
 
- **java**, **Go**, **Linux**
+ **java**, **go**, **linux**
 
 por enquanto, migrando projetos antigos para essa conta e conectando estudos de **IBM Z / mainframe** com ferramentas locais, APIs e fluxo de trabalho no terminal.
 
