@@ -15,9 +15,9 @@
 
  **java**, **go**, **linux**
 
-por enquanto, migrando projetos antigos para essa conta e conectando estudos de **IBM Z / mainframe** com ferramentas locais, APIs e fluxo de trabalho no terminal.
+migrando projetos antigos para essa nova conta e conectando estudos sobre **IBM Z / mainframe** juntamente com ferramentas locais, APIs e fluxo de trabalho no terminal.
 
-**estudando:** IBM Z, Go, CLIs, Linux por dentro, redes e sistemas distribuídos.
+**estudando:** IBM Z, Go, CLIs, Linux (sistema interno), redes e sistemas distribuídos.
 
 **projetos:** `go-blockchain-lab`, `python-zoau-dataset-automation`, ferramentas locais e experimentos pequenos.
 
