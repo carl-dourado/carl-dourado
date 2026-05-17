@@ -41,7 +41,7 @@ Diretório: /home/carl                Shell: /usr/bin/zsh
                 `+oooo:               WM: Hyprland
                `+oooooo:              Perfil: Estudante / Criador
                -+oooooo+:             Foco: Java, Go · TypeScript · Linux · IBM Z
-             `/:-:++oooo+:            Linguagens: Java, Go, Python, JavaScript, TypeScript
+             `/:-:++oooo+:            Linguagens: Java, Go, TypeScript
             `/++++/+++++++:           Ferramentas: Git, Docker, Linux, terminal
            `/++++++++++++++:          Interesses: redes e ferramentas locais
           `/+++ooooooooooooo/`
@@ -57,7 +57,7 @@ Diretório: /home/carl                Shell: /usr/bin/zsh
 
   Estudando:
    - IBM Z / Mainframe
-   - Go, TypeScript, ferramentas de CLI e APIs locais
+   - Java, Go, TypeScript, ferramentas de CLI e APIs locais
    - internos do Linux e fluxo de trabalho no shell
    - redes, sistemas distribuídos e ferramentas
 
