@@ -48,7 +48,7 @@ Diretório: /home/carl                Shell: /usr/bin/zsh
             `/++++/+++++++:           Ferramentas: Git, Docker, Linux, terminal
            `/++++++++++++++:          Interesses: redes e ferramentas locais
           `/+++ooooooooooooo/`
-         ./ooosssso++osssssso+`       Projetos:
+         ./ooosssso++osssssso+`        Projetos:
         .oossssso-````/ossssss+`        - go-blockchain-lab
        -osssssso.      :ssssssso.       - python-zoau-dataset-automation
       :osssssss/        osssso+++.
