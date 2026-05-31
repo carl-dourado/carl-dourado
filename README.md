@@ -22,7 +22,7 @@ migrando projetos antigos para essa nova conta e conectando estudos sobre **IBM 
 
 **estudando:** IBM Z, Go, TypeScript, CLIs, Linux (sistema interno), redes e sistemas distribuídos.
 
-**projetos:** `go-blockchain-lab`, `python-zoau-dataset-automation`, ferramentas locais.
+**projetos:** `go-blockchain-lab`, `python-zoau-dataset-automation`, ferramentas locais
 
 <details>
 <summary>terminal view</summary>
