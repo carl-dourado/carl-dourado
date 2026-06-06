@@ -42,7 +42,7 @@ Diretório: /home/carl                Shell: /usr/bin/zsh
                   .o+`                ----------------
                  `ooo/                SO: Arch Linux
                 `+oooo:               WM: Hyprland
-               `+oooooo:              Perfil: Estudante / Criador
+               `+oooooo:              Perfil: Estudante / Criador.
                -+oooooo+:             Foco: Java, Go · TypeScript · Linux · IBM Z
              `/:-:++oooo+:            Linguagens: Java, Go, TypeScript
             `/++++/+++++++:           Ferramentas: Git, Docker, Linux, terminal
