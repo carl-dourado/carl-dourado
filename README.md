@@ -14,7 +14,7 @@
 
 ## carl-dourado
 
- **java**, **go**, **typescript**, **linux**....
+ **java**, **go**, **typescript**, **linux**.
 
 migrando projetos antigos para essa nova conta e conectando estudos sobre **IBM Z / mainframe** juntamente com ferramentas locais, APIs e fluxo de trabalho no terminal...
 
