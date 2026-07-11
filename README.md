@@ -14,13 +14,13 @@
 
 ## carl-dourado
 
- **java**, **go**, **typescript**, **linux**.....
+ **java**, **go**, **typescript**, **linux**.
 
 migrando projetos antigos para essa nova conta e conectando estudos sobre **IBM Z / mainframe** juntamente com ferramentas locais, APIs e fluxo de trabalho no terminal.
 
 **site:** [carlosdourado.dev](https://carlosdourado.dev)
 
-**estudando:** IBM Z, Go, TypeScript, CLIs, Linux (sistema interno), redes e sistemas distribuídos...
+**estudando:** IBM Z, Go, TypeScript, CLIs, Linux (sistema interno), redes e sistemas distribuídos.
 
 **projetos:** `go-blockchain-lab`, `python-zoau-dataset-automation`, ferramentas locais
 
